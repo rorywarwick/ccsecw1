@@ -1,0 +1,26 @@
+body{
+
+    font-family: Poppins, sans-serif;
+    
+}
+
+.layout{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 550px;
+}
+
+.boxDiv{
+    height: 300px;
+    width: 400px;
+    background-color: rgb(200, 227, 255);
+}
+
+.boxItem{
+    height: 50px;
+    /* width: 50px; */
+    /* background-color: white; */
+    margin: 20px 10px;
+}

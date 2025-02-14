@@ -1,0 +1,30 @@
+.material-symbols-outlined {
+    justify-content: space-between;
+    font-size: 50px;
+    color: rgb(150, 150, 150);
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 48
+      
+}
+
+.group_icon .material-symbols-outlined{
+    font-size: 40px;
+    color: rgb(255, 172, 237);
+    
+}
+
+.group_icon{
+    margin: 0;
+}
+
+
+.footer__link {
+    font-size: 25px;
+    color: gray;
+    font-weight: 500;
+    text-decoration: none;
+
+}
